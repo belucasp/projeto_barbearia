@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+
+html {
+    background-color: #2d2d2c;
+}
+
+li {
+    font-size: 1em;
+};
+
+li:hover { 
+    transition: 1s;
+    background-color: lightgray;
+    border-radius: 5px;
+};
+
